@@ -1,4 +1,4 @@
-package com.jpmc.midascore.foundation;
+package com.jpmc.midascore.component;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
